@@ -1,4 +1,4 @@
-# Talk with Your Multi-CSV Data
+# 👨‍💻 Talk with Your Multi-CSV Data
 
 Overview
 
@@ -30,10 +30,12 @@ This project requires the following Python packages, which can be installed via 
 
 ### 1. Create a Virtual Environment
 
-To create a virtual environment named `myvenv`, run the following commands:
+To clone this repository to your local machine, use the following command
+```bash 
+git clone https://github.com/adityapatils/CSV-InsightBot.git
+cd CSV-InsightBot
 
-```bash
-# Create a virtual environment
+## Create a virtual environment, run the following commands:
 python -m venv myvenv
 
 # Activate the virtual environment
